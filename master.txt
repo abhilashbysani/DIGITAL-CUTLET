@@ -1,0 +1,13 @@
+public(){
+
+
+
+IF ();
+
+
+FOR LOOP (){
+
+
+
+
+SYSTEM.OUT.PRINT(*********);
