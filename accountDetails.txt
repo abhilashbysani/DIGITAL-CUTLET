@@ -1,0 +1,6 @@
+public void username(){
+s.o.p("please enter username");
+}
+public void validcredentials(){
+s.o.p("please enter valid credentials");
+}
