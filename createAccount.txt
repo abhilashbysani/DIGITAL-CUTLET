@@ -1,0 +1,22 @@
+public class createAccount(){
+
+public static void createAcc()
+
+{
+
+System.out.println("enter email address")
+
+System.out.println("enter first name");
+
+System.out.println("enter Last name");
+
+System.out.println("enter phone number")
+
+System.out.println(" Enter password");
+
+System.out.println("Click Sumit")
+
+}
+
+}
+
