@@ -1,0 +1,15 @@
+public void loginTests(){
+System.out.println("Hello i am login test");
+}
+
+public void enterUserName(){
+System.out.println("Enter user name as testautomation.com");
+}
+
+public void enterPassword(){
+System.out.println("Enter password as abced1234");
+}
+
+public void clickOnLoginButton(){
+System.out.println("Click on login button");
+}
